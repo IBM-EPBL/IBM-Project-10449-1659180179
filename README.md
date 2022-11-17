@@ -2,9 +2,13 @@
 A Novel Method for Handwritten Digit Recognition System
 # Team Members :
 Praveen R - 2019115070
+
 Hrithik Viknesh B - 2019115040
+
 Avinash Krishna B - 2019115025
+
 Kalaiselvan S - 2019115045
+
 # Category :
 Artificial Intelligence
 # Project Description :
